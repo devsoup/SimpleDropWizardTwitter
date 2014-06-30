@@ -31,7 +31,7 @@ Run
   export twitter4j_oauth_consumerSecret=<your_app_consumer_secret>
   export twitter4j_oauth_accessToken=<your_app_access_token>
   export twitter4j_oauth_accessTokenSecret=<your_app_access_token_secret>
-  java -jar target/SimpleDropWizardTwitter-1.0.0.jar server
+  java -jar target/SimpleDropWizardTwitter-1.0.1-SNAPSHOT.jar server
   ```
 
 Test

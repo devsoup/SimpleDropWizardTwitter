@@ -6,7 +6,7 @@
 
     <groupId>uk.co.devsoup</groupId>
     <artifactId>SimpleDropWizardTwitter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <dropwizard.version>0.7.0</dropwizard.version>
